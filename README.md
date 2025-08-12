@@ -1,1 +1,6 @@
-The Java Learning Path of a Bachelor Student (Following HeimaCoding on Bilibili)
+# JavaSE Learning Path
+
+Jumped over Basics, OOD, Inheritance
+
+Started from Custom API
+
