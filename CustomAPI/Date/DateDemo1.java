@@ -1,6 +1,5 @@
-package Time;
+package Date;
 
-import java.sql.SQLOutput;
 import java.util.Date;
 
 public class DateDemo1 {
