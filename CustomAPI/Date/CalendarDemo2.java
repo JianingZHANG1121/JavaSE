@@ -15,7 +15,7 @@ public class CalendarDemo2 {
     private static void zonedDateTimeDemo() {
 
         // Directly by definition
-        ZonedDateTime time1 = ZonedDateTime.of(2003, 12, 24, 04, 11, 21, 0, ZoneId.of("Asia/Taipei"));
+        ZonedDateTime time1 = ZonedDateTime.of(2003, 12, 24, 4, 11, 21, 0, ZoneId.of("Asia/Taipei"));
         System.out.println(time1);
 
         // Instant + zone -> time

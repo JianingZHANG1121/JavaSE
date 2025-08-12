@@ -25,10 +25,13 @@ public class CalendarDemo4 {
         System.out.println(ldDate.isAfter(nowDate));
 
         LocalDate withLocalDate = ldDate.withYear(2004);
+        System.out.println(withLocalDate);
 
         LocalDate minusLocalDate = ldDate.minusYears(1);
+        System.out.println(minusLocalDate);
 
         LocalDate plusLocalDate = ldDate.plusYears(1);
+        System.out.println(plusLocalDate);
 
         // LocalTime: Usage the same as LocalDate
         // LocalDate -> yyyyMMdd
