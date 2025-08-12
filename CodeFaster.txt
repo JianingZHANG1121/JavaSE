@@ -1,0 +1,11 @@
+快捷键
+ctrl + b -> 查看源代码
+ctrl + d -> 快速复制该行到下一行
+ctrl + alt + l -> auto format
+ctrl + alt + v -> new新对象时快速补全左边
+ctrl + alt + m -> 快速抽取选中代码为Method
+
+tab快捷输入
+sout -> System.out.println();
+loopNum.fori -> 快速生成loopNum次以i为循环值的循环(i<loopNum)
+main -> public static void main(String[] args){}
