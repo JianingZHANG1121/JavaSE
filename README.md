@@ -1,3 +1,1 @@
-KEEP GOING! 
-The Java Learning Path of a Bachelor Student
-Following HeimaCoding on Bilibili
+The Java Learning Path of a Bachelor Student (Following HeimaCoding on Bilibili)
